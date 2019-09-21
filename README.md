@@ -59,3 +59,8 @@ You can contact me to ask me questions, ask for help, propose projects etc...
 - Thanks TheMachine#4263: Instagram account
 - Thanks Lewis#8972: Some tweets - Some Trello images
 - Thanks all those who supported the project on Reddit / YouTube / Twitter
+
+
+**Made in France**
+**By Elarson**
+**©**
