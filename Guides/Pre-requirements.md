@@ -39,6 +39,6 @@
   **The required Plug-ins/Presets are**:
   - [Twitch By VIDEOCOPILOT](https://www.videocopilot.net/products/twitch/)
   - [CounterPro Preset by Guillaume Gallot](https://www.motion-cafe.com/preset-counterpro)
-  - **/!\ Not used in the project, but will be necessary in the future /!\** [Plexus 3 by Rowbyte](https://aescripts.com/plexus/)
+  - **Not used in the project, but will be necessary in the future** [Plexus 3 by Rowbyte](https://aescripts.com/plexus/)
  
 [Next guide]()
