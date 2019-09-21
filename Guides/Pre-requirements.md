@@ -46,4 +46,4 @@
   - [CounterPro Preset by Guillaume Gallot](https://www.motion-cafe.com/preset-counterpro)
   - **Not used in the project, but will be necessary in the future** [Plexus 3 by Rowbyte](https://aescripts.com/plexus/)
  
-[Next guide]()
+[Next guide](https://github.com/Elarson31/TheMachine.aep-Project/blob/master/Guides/Install.md)
