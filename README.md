@@ -62,5 +62,6 @@ You can contact me to ask me questions, ask for help, propose projects etc...
 
 
 **Made in France**
+
 **By Elarson**
-**©**
+
