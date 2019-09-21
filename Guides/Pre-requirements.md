@@ -3,16 +3,21 @@
 ## I] Intro
 
   **First, I'm not responsible for any software cracking, license theft and using videos, pictures, documents, text files or any files without creator’s permissions.**
+  
   Then, you should know that it is better to have a minimum of experience on the software used. Tutorials are available on the internet. I will consider, in the next guides, that the basics of each software are acquired.
   **These guides are not for beginners.**
+  
   If you download the project, it is either to use it in your projects, where you are under the obligation to credit TheMachine.aep. Either to contribute to TheMachine.aep to improve it in terms of resources and make it evolve positively.
 
 ## II] Softwares
 
   **The most important software is of course Adobe After Effects**, preferably CC 2019 version.
   As I said, to be able to use or contribute to the project, you must be familiar with the basics of this software.
+  
   Then, **Adobe Illustrator** is also used. However, it is not the main software and is used occasionally. Once again, the CC 2019 version is preferable.
+  
   The **Audacity software (free)** is used for the sound design of windows, but alternative software is possible.
+  
   Finally, **Photoshop** is currently only used for images posted on the Trello board.
   
   **Github** is not really a software but it is also necessary to know how to use it to contribute to the project.
