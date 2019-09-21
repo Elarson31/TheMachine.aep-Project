@@ -61,7 +61,7 @@ You can contact me to ask me questions, ask for help, propose projects etc...
 - Thanks all those who supported the project on Reddit / YouTube / Twitter
 
 
-**Made in :fr: France :fr:**
+**Made in France**
 
 **By Elarson**
 
