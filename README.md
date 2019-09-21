@@ -27,7 +27,7 @@ The elements used in these videos are not finished elements and are not exactly 
 
 ## Guides
 
-- [PRE-REQUIREMENTS](): List all the pre-requirements to begin contributing for the project.
+- [PRE-REQUIREMENTS](https://github.com/Elarson31/TheMachine.aep-Project/blob/master/Guides/Pre-requirements.md): List all the pre-requirements to begin contributing for the project.
 - [INSTALL](): Install the project correctly.
 - [BASICS](): Learn to use all the recurrent and basic elements of The Machine.
 - [WINDOW TYPE 1](): Learn how to create a basic window.
