@@ -5,7 +5,7 @@
   **First, I'm not responsible for any software cracking, license theft and using videos, pictures, documents, text files or any files without creator’s permissions.**
   
   Then, you should know that it is better to have a minimum of experience on the software used. Tutorials are available on the internet. I will consider, in the next guides, that the basics of each software are acquired.
-  **These guides are not for beginners.**
+  **These guides are not for beginners.** (but beginners can try too)
   
   If you download the project, it is either to use it in your projects, where you are under the obligation to credit TheMachine.aep. Either to contribute to TheMachine.aep to improve it in terms of resources and make it evolve positively.
 
