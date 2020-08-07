@@ -14,7 +14,7 @@
   **The most important software is of course Adobe After Effects**, preferably CC 2020 version.
   As I said, to be able to use or contribute to the project, you must be familiar with the basics of this software.
   
-  Then, **Adobe Illustrator** is also used. However, it is not the main software and is used occasionally. Once again, the CC 2019 version is preferable.
+  Then, **Adobe Illustrator** is also used. However, it is not the main software and is used occasionally. Once again, the CC 2020 version is preferable.
   
   The **Audacity software (free)** is used for the sound design of windows, but alternative software is possible.
   
