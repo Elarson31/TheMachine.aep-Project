@@ -10,7 +10,7 @@
 - [Acknowledgments](https://github.com/Elarson31/TheMachine.aep-Project#acknowledgments)
 
 ## About the project :
-  **TheMachine.aep is a project which was created on August 29, 2017.** The purpose of this project is to reproduce the VFX of Person of Interest's "The Machine" (2011 by Jonathan Nolan). This is a **"fan-made"** made on Adobe **After Effects CC 2020**. This project was created to gain experience on After Effects. The project has now turned **open source** after 3 years of personal development for several reasons. The first is that I think **the project can evolve more quickly and efficiently with the help of everyone**. The second is that I **have less time to develop the project regularly and constantly**. And the last one is that I think **I can teach people** who are not in the post-production world.
+  **TheMachine.aep is a project which was created on August 29, 2017.** The purpose of this project is to reproduce the VFX of Person of Interest's "The Machine" (2011 by Jonathan Nolan). This is a **"fan-made"** made on Adobe **After Effects CC 2019**. This project was created to gain experience on After Effects. The project has now turned **open source** after 3 years of personal development for several reasons. The first is that I think **the project can evolve more quickly and efficiently with the help of everyone**. The second is that I **have less time to develop the project regularly and constantly**. And the last one is that I think **I can teach people** who are not in the post-production world.
   
   **YOU NEED TO KNOW THAT THE PROJECT ISN'T FINISHED ! IT IS IN WORK IN PROGRESS STATE ! IT NEEDS TO BE COMPLETED BY THE COMMUNITY**
 
