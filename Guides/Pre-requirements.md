@@ -25,6 +25,8 @@
 ## III] Files
 
   The only files you need to download to access the project are from [this Github repository](https://github.com/Elarson31/TheMachine.aep-Project). Files external to the project may be required but are not essential for the.aep file to work as expected.
+  
+   Then, if you want to reproduce windows exactly like in the show, you will need the HD video of the window from the show (if you want your window added in the project, it has to be EXACTLY the same, like in the show. I cannot share files of the show to help you to reproduce because of DMCA)
 
 ## IV] Fonts
 
@@ -39,7 +41,7 @@
   
   Without these fonts, the project cannot be used efficiently.
   
-  Then, if you want to reproduce windows exactly like in the show, you will need the HD video of the window from the show (if you want your window added in the project, it has to be EXACTLY the same, like in the show. I cannot share files of the show to help you to reproduce because of DMCA)
+ 
 
 ## V] Plug-ins / Presets
 
