@@ -36,7 +36,7 @@ The elements used in these videos are not finished elements and are not exactly 
 - (UNAVAILABLE) [WINDOW TYPE 2](): Learn how to create a basic window with text.
 - (UNAVAILABLE) [WINDOW TYPE 3](): Learn how to create a basic window with picture.
 - (UNAVAILABLE) [WINDOW TYPE 4](): Learn how to create a basic window with lot of additional elements.
-- [OBJECTIVES OF THE PROJECT](): List all objectives of the project to be reached.
+- [OBJECTIVES OF THE PROJECT](https://github.com/Elarson31/TheMachine.aep-Project/blob/master/Guides/objectives.md): List all objectives of the project to be reached.
 - [CONTRIBUTE](): Learn to contribute to the project and release your window for everyone.
 - [USE THEMACHINE.AEP](): Learn how to use the .aep file for your projects.
 
