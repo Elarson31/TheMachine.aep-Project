@@ -29,14 +29,14 @@ The elements used in these videos are not finished elements and are not exactly 
 
 ## Guides
 
-- [PRE-REQUIREMENTS](https://github.com/Elarson31/TheMachine.aep-Project/blob/master/Guides/Pre-requirements.md): List all the pre-requirements to begin contributing for the project.
-- [INSTALL](https://github.com/Elarson31/TheMachine.aep-Project/blob/master/Guides/Install.md): Install the project correctly.
+- [PRE-REQUIREMENTS](Guides/Pre-requirements.md): List all the pre-requirements to begin contributing for the project.
+- [INSTALL](Guides/Install.md): Install the project correctly.
 - (UNAVAILABLE) [BASICS](): Learn to use all the recurrent and basic elements of The Machine.
 - (UNAVAILABLE) [WINDOW TYPE 1](): Learn how to create a basic window.
 - (UNAVAILABLE) [WINDOW TYPE 2](): Learn how to create a basic window with text.
 - (UNAVAILABLE) [WINDOW TYPE 3](): Learn how to create a basic window with picture.
 - (UNAVAILABLE) [WINDOW TYPE 4](): Learn how to create a basic window with lot of additional elements.
-- [OBJECTIVES OF THE PROJECT](https://github.com/Elarson31/TheMachine.aep-Project/blob/master/Guides/objectives.md): List all objectives of the project to be reached.
+- [OBJECTIVES OF THE PROJECT](Guides/objectives.md): List all objectives of the project to be reached.
 - (UNAVAILABLE) [USE THEMACHINE.AEP](): Learn how to use the .aep file for your projects.
 
 ## Licence
